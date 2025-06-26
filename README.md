@@ -6,7 +6,7 @@ A stylish and responsive Profile UI Card built using HTML and CSS.
 This card contains a profile avatar, name, role, bio, and skills section.
 
 ## 🔗 Live Demo
-[Click here to view live](https://tanvichaudhari.github.io/profile-card/)
+[Click here to view live](https://tanvichaudhari.ccbp.tech/)
 
 ## 📁 Tech Stack
 - HTML
